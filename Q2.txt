@@ -1,0 +1,12 @@
+Write a blog about objects and its internal representation in Javascript?
+
+objects and internal represntation in Javascript:
+         * In JavaScript, almost everything is an object. 
+         * Objects are used to store data and functions.
+         *An object is a collection of properties,Each property has a name and a value.
+         
+ Example:
+ var myCar = new Object();
+myCar.make = 'Ford';
+myCar.model = 'Mustang';
+myCar.year = 1969;
